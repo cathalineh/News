@@ -1,4 +1,4 @@
-# FlashBytes-Android-News-App
+# News
 Android Material Design News App using API from https://www.thenewsapi.com/ and Retrofit Library
 
 # Screen
@@ -28,16 +28,9 @@ Android Material Design News App using API from https://www.thenewsapi.com/ and 
    - Top News
    - All News
    - News by categories
-   - -Search News
+   - Search News
    - News Details
    - Native WebView for news source
-
-# How to use ?
-   - Clone the repo
-   - Go to  https://www.thenewsapi.com/ and create a free account
-   - Go to Dashboard to get you api token
-   - Paste the token in Constant File
-   - Done!
 
 
 
