@@ -31,5 +31,6 @@ Android Material Design News App using API from https://www.thenewsapi.com/ and 
    - Подробности новостей
    - Native WebView for news source
 
-thx2flashbytes
+thx2claudysoft <3
+nothing commercial btw
 
