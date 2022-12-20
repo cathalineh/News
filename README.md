@@ -1,35 +1,34 @@
-# News
+# Новости
 Android Material Design News App using API from https://www.thenewsapi.com/ and Retrofit Library
 
-# Screen
+# Скрины
 
-   1. Splash, Onboard Screen
+   1. Поддержка безрамочности
    
    
    ![alt text](https://github.com/jeanclaudesoft/FlashBytes-Android-News-App/blob/master/onboard.png "Splash, OnBoard")
    
    
-   2. Home, Search, Categories
+   2. Главный экран, Поиск, Категории
 
 
    ![alt text](https://github.com/jeanclaudesoft/FlashBytes-Android-News-App/blob/master/search.png "Home, Search, Categories")
    
   
-  3. News Detail
+  3. Детали новостей
 
    ![alt text](https://github.com/jeanclaudesoft/FlashBytes-Android-News-App/blob/master/news.png "Details")
 
 
 
-# Features
-   - Splash Screen
-   - Onboarding Screen
-   - News from multi Language
-   - Top News
-   - All News
-   - News by categories
-   - Search News
-   - News Details
+# Функции
+   - Поддержка безрамочности
+   - Новости на нескольких языках
+   - Топ новостей
+   - Все новости
+   - Новости по категориям
+   - Поиск новостей
+   - Подробности новостей
    - Native WebView for news source
 
 thx2flashbytes
